@@ -7,20 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign Up - QuickPOS</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: Arial, sans-serif; background: #f8f9fa; }
-        .signup-container { max-width: 400px; margin: 2rem auto; padding: 2rem; background: white; border-radius: 0.5rem; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { text-align: center; margin-bottom: 1.5rem; color: #333; }
-        .form-group { margin-bottom: 1rem; }
-        label { display: block; margin-bottom: 0.5rem; font-weight: 500; }
-        input { width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 0.375rem; font-size: 1rem; }
-        input:focus { outline: 2px solid #007bff; border-color: #007bff; }
-        .btn { background: #007bff; color: white; padding: 0.75rem; border: none; border-radius: 0.375rem; font-size: 1rem; cursor: pointer; width: 100%; }
-        .btn:hover { background: #0056b3; }
-        .back-link { text-align: center; margin-top: 1rem; }
-        .back-link a { color: #007bff; text-decoration: none; }
-    </style>
+    <link rel="stylesheet" href="/css/signup.css">
 </head>
 <body>
     <div class="signup-container">
