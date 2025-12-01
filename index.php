@@ -13,5 +13,6 @@
     <?php include 'hero.php'; ?>
     <?php include 'features.php'; ?>
     <?php include 'pricing.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 </html>
