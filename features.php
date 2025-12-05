@@ -1,7 +1,7 @@
 <?php
 // features.php
 ?>
-<link rel="stylesheet" href="/css/features.css">
+<link rel="stylesheet" href="css/features.css">
 <section id="features" class="features">
   <div class="features-container">
     <h2 class="features-title">Powerful Features for Your Business</h2>

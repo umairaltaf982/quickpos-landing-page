@@ -1,11 +1,11 @@
 <?php
 // footer.php
 ?>
-<link rel="stylesheet" href="/css/footer.css">
-<footer id="contact" class="site-footer">
+<link rel="stylesheet" href="css/footer.css">
+<footer class="site-footer">
   <div class="footer-container">
     <div class="footer-brand">
-      <img src="/QUIC-7-logo.png" alt="QuickPOS" class="footer-logo">
+      <img src="QUIC-7-logo.png" alt="QuickPOS" class="footer-logo">
       <p class="footer-tagline">The Last POS System You'll Ever Need</p>
     </div>
     <div class="footer-links">
@@ -14,7 +14,7 @@
         <ul>
           <li><a href="#features">Features</a></li>
           <li><a href="#pricing">Pricing</a></li>
-          <li><a href="/signup.php">Sign Up</a></li>
+          <li><a href="signup.php">Sign Up</a></li>
         </ul>
       </div>
       <div class="footer-column">
@@ -22,7 +22,7 @@
         <ul>
           <li><a href="#">About Us</a></li>
           <li><a href="#">Careers</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
       <div class="footer-column">
