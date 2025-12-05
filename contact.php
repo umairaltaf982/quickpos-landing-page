@@ -1,8 +1,8 @@
 <?php
 // contact.php
 ?>
-<link rel="stylesheet" href="/css/contact.css">
-<section id="contact-form" class="contact">
+<link rel="stylesheet" href="css/contact.css">
+<section id="contact" class="contact">
   <div class="contact-container">
     <div class="contact-info">
       <h2 class="contact-title">Get in Touch</h2>
