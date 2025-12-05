@@ -1,7 +1,7 @@
 <?php
 // pricing.php
 ?>
-<link rel="stylesheet" href="/css/pricing.css">
+<link rel="stylesheet" href="css/pricing.css">
 <section id="pricing" class="pricing">
   <div class="pricing-container">
     <h2 class="pricing-title">Choose Your Plan</h2>
@@ -23,7 +23,7 @@
           <li>✓ Email Support</li>
           <li>✓ Cloud Backup</li>
         </ul>
-        <a href="/signup.php?plan=starter" class="pricing-btn" aria-label="Get started with Starter plan">Get Started</a>
+        <a href="signup.php?plan=starter" class="pricing-btn" aria-label="Get started with Starter plan">Get Started</a>
       </div>
       <div class="pricing-card featured">
         <div class="pricing-badge">Most Popular</div>
@@ -43,7 +43,7 @@
           <li>✓ Inventory Management</li>
           <li>✓ Employee Management</li>
         </ul>
-        <a href="/signup.php?plan=professional" class="pricing-btn" aria-label="Get started with Professional plan">Get Started</a>
+        <a href="signup.php?plan=professional" class="pricing-btn" aria-label="Get started with Professional plan">Get Started</a>
       </div>
       <div class="pricing-card">
         <div class="pricing-header">
@@ -63,7 +63,7 @@
           <li>✓ Multi-location Support</li>
           <li>✓ Dedicated Account Manager</li>
         </ul>
-        <a href="/signup.php?plan=enterprise" class="pricing-btn" aria-label="Get started with Enterprise plan">Get Started</a>
+        <a href="signup.php?plan=enterprise" class="pricing-btn" aria-label="Get started with Enterprise plan">Get Started</a>
       </div>
     </div>
   </div>
